@@ -3,7 +3,7 @@ Hi, there. My name is Nguyen Thanh Minh. I'm 21 and a self-taught Software Engin
 Passionate to become full-stack dev.
 ## Languages:
 HTML/CSS/Javascript/SQL.
-## Framework:
+## Framework/Library:
 Reactjs.
 ## Technology:
 GIT.
