@@ -1,10 +1,18 @@
 # Introduction!
-Hi, there. My name is Nguyen Thanh Minh. I'm 21 and a self-taught Software Engineer work in Web Development Industry.\
+
+Hi, there. My name is Nguyen Thanh Minh. I'm 21 and a self-taught Software Developer work in Web Development Industry.\
 Passionate to become full-stack dev.
+
 ## Languages:
-HTML/CSS/Javascript/SQL.
+
+HTML/CSS/Javascript/MongoDB/SQL.
+
 ## Framework/Library:
-Reactjs.
+
+Reactjs, Express.
+
 ## Technology:
-GIT.
-## See my code in Github: https://github.com/nguyenthanhminh112000.
+
+GIT, GitHub, npm, PowerShell.
+
+## See my profile in LinkedIn: https://www.linkedin.com/in/nguyenthanhminh112000/
