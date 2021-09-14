@@ -5,7 +5,10 @@ Passionate to become full-stack dev.
 
 ## Languages:
 
-HTML/CSS/Javascript/MongoDB/SQL.
+HTML/CSS/Javascript.
+
+## Database:
+MongoDB/MSSQLSERVER.
 
 ## Framework/Library:
 
