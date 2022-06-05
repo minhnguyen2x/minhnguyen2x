@@ -1,11 +1,11 @@
 # Introduction!
 
-Hi, there. My name is Nguyen Thanh Minh. I'm 21 and a self-taught Software Developer work in Web Development Industry.\
-Passionate to become full-stack dev.
+Hi. I'm Nguyen Thanh Minh, a Software Engineer work in Web Development Industry.\
+My tech stack.
 
 ## Languages:
 
-HTML5/CSS3/Javascript.
+HTML5/CSS3/Javascript/TypeScript.
 
 ## Database:
 MongoDB/MSSQLSERVER.
