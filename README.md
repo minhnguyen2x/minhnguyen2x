@@ -5,7 +5,7 @@ My tech stack.
 
 ## Front-end Development:
 
-HTML5/CSS3/Javascript/TypeScript/React
+HTML5/CSS3/JavaScript/TypeScript/React
 
 ## Back-end Development:
 
