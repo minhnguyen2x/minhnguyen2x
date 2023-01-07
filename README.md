@@ -1,6 +1,6 @@
 # Introduction!
 
-Hi. I'm Nguyen Thanh Minh, a Software Engineer work in Web Development Industry.\
+Hi. I'm Minh Nguyen, a Software Engineer work in Web Development Industry.\
 My tech stack.
 
 ## Front-end Development:
