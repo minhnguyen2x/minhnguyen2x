@@ -3,19 +3,15 @@
 Hi. I'm Nguyen Thanh Minh, a Software Engineer work in Web Development Industry.\
 My tech stack.
 
-## Languages:
+## Front-end Development:
 
-HTML5/CSS3/Javascript/TypeScript.
+HTML5/CSS3/Javascript/TypeScript/React
 
-## Database:
-MongoDB/MSSQLSERVER.
+## Back-end Development:
 
-## Framework/Library:
-
-Reactjs, Express.
+NodeJS/Express/MongoDB/MSSQLSERVER.
 
 ## Technology:
-
 GIT, GitHub, npm, PowerShell.
 
 ## See my profile in LinkedIn: https://www.linkedin.com/in/nguyenthanhminh112000/
