@@ -11,7 +11,7 @@ HTML5/CSS3/JavaScript/TypeScript/React.js/Next.js
 
 NodeJS/Express/NestJS/MongoDB/MSSQLSERVER.
 
-## New in Web3 with:
+## Web3 Development:
 
 Solidity/Ethers.js/Hardhat
 
