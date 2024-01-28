@@ -5,7 +5,7 @@ My tech stack.
 
 ## Front-end Development:
 
-HTML5/CSS3/JavaScript/TypeScript/React.js/Next.js
+Next.js/React.js/TypeScript/JavaScript/HTML5/CSS3/
 
 ## Back-end Development:
 
@@ -14,9 +14,6 @@ NodeJS/Express/NestJS/MongoDB/MSSQLSERVER.
 ## Web3 Development:
 
 Solidity/Ethers.js/Hardhat
-
-## Technology:
-GIT, GitHub, npm, PowerShell.
 
 ## See my profile on LinkedIn: https://www.linkedin.com/in/nguyenthanhminh112000/
 
