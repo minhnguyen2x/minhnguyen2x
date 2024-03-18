@@ -21,5 +21,5 @@ NodeJS/Express/NestJS/MongoDB/MSSQLSERVER.
 
 Solidity/Ethers.js/Hardhat
 
-## See my profile on LinkedIn: https://www.linkedin.com/in/nguyenthanhminh112000/
+## See my profile on LinkedIn: https://www.linkedin.com/in/minhnguyenx/
 
