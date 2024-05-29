@@ -1,6 +1,7 @@
 # Introduction!
 •   A highly motivated Software Engineer with almost 5 years of experience in software development, focusing on front-end development.  
 •   Deeply understand and have hands-on experience with Next.js, React.js, Core JavaScript, TypeScript, and Web front-end development.  
+•   Hands-on experience in backend development with Node.js, Express.js, Nest.js
 •   Experienced with JavaScript Unit Testing using Jest Framework.  
 •   Working in an agile environment with excellent engineers using the Scrum framework.  
 •   Fast learner, ambitious, efficient, and hardworking team player with effective communication skills.  
