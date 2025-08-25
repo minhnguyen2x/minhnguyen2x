@@ -6,7 +6,6 @@
 •   Working in an agile environment with excellent engineers using the Scrum framework.  
 •   Fast learner, ambitious, efficient, and hardworking team player with effective communication skills.  
 •   Ability to adapt well and learn quickly. Eager to take on extra responsibilities and grow professionally.  
-•   Friendly, open-minded person. Easy to make friends. Always trying to make a working environment as fun as possible.  
 
 My tech stack.
 
